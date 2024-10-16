@@ -1,4 +1,4 @@
-- 👋 Hi, ```I’m @haydencheunggg```
+- 👋 Hi, I’m ```@haydencheunggg```
 - 👀 I’m interested in ```coding boring things```
 - 🌱 I’m currently learning ```C++```
 - 📫 Reach me: ```haydenchhk.business@gmail.com```
